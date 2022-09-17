@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 吴宇航的博客
-subtitle:
+title: Yzx's-Blog
+subtitle: 一个热爱编程的初中生
 description:
 keywords:
-author: 吴宇航
+author: Alex袁梓轩
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.wuyuhang.ml
-# url: http://localhost:4000
+url: https://yzx-blog.tk/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -36,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
